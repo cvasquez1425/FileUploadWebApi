@@ -1,0 +1,14 @@
+C:\demos\samples\FileUploadSample\FileUploadWebApi\bin\Debug\netcoreapp2.1\FileUploadWebApi.deps.json
+C:\demos\samples\FileUploadSample\FileUploadWebApi\bin\Debug\netcoreapp2.1\FileUploadWebApi.runtimeconfig.json
+C:\demos\samples\FileUploadSample\FileUploadWebApi\bin\Debug\netcoreapp2.1\FileUploadWebApi.runtimeconfig.dev.json
+C:\demos\samples\FileUploadSample\FileUploadWebApi\bin\Debug\netcoreapp2.1\FileUploadWebApi.dll
+C:\demos\samples\FileUploadSample\FileUploadWebApi\bin\Debug\netcoreapp2.1\FileUploadWebApi.pdb
+C:\demos\samples\FileUploadSample\FileUploadWebApi\obj\Debug\netcoreapp2.1\FileUploadWebApi.csprojAssemblyReference.cache
+C:\demos\samples\FileUploadSample\FileUploadWebApi\obj\Debug\netcoreapp2.1\FileUploadWebApi.csproj.CoreCompileInputs.cache
+C:\demos\samples\FileUploadSample\FileUploadWebApi\obj\Debug\netcoreapp2.1\FileUploadWebApi.RazorAssemblyInfo.cache
+C:\demos\samples\FileUploadSample\FileUploadWebApi\obj\Debug\netcoreapp2.1\FileUploadWebApi.RazorAssemblyInfo.cs
+C:\demos\samples\FileUploadSample\FileUploadWebApi\obj\Debug\netcoreapp2.1\FileUploadWebApi.AssemblyInfoInputs.cache
+C:\demos\samples\FileUploadSample\FileUploadWebApi\obj\Debug\netcoreapp2.1\FileUploadWebApi.AssemblyInfo.cs
+C:\demos\samples\FileUploadSample\FileUploadWebApi\obj\Debug\netcoreapp2.1\FileUploadWebApi.RazorTargetAssemblyInfo.cache
+C:\demos\samples\FileUploadSample\FileUploadWebApi\obj\Debug\netcoreapp2.1\FileUploadWebApi.dll
+C:\demos\samples\FileUploadSample\FileUploadWebApi\obj\Debug\netcoreapp2.1\FileUploadWebApi.pdb
